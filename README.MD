@@ -107,7 +107,7 @@ Easily track and manage employee work hours on jobs, improve your payroll proces
 
 ## Links
 
-* [Attendance Management System v2 documentation](https://mecky.github.io/attendance-management-system-v2/)
+* [Attendance Management System v2 documentation](https://github.com/KuyaMecky/Attendance-management-system-v2/blob/master/README.MD)
 * [Attendance Management System v2 support forum](https://github.com/mecky/attendance-management-system-v2/issues)
 
 **Try the Attendance Management System v2 today and experience the benefits of a more efficient and effective attendance management system!**
