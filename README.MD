@@ -87,9 +87,19 @@ Easily track and manage employee work hours on jobs, improve your payroll proces
 ![alt text](https://github.com/KuyaMecky/Attendance-management-system-v2/blob/master/assets/images/doc%20image/login.png?raw=true)
 
 [Screenshot of the Attendance Management System v2 user management page]
+![alt text](https://github.com/KuyaMecky/Attendance-management-system-v2/blob/master/assets/images/doc%20image/admin%20user.png?raw=true)
+
 [Screenshot of the Attendance Management System v2 attendance management page]
+![alt text](https://github.com/KuyaMecky/Attendance-management-system-v2/blob/master/assets/images/doc%20image/attendance.png?raw=true)
+
 [Screenshot of the Attendance Management System v2 report generation page]
+![alt text](https://github.com/KuyaMecky/Attendance-management-system-v2/blob/master/assets/images/doc%20image/admin%20report.png?raw=true)
+
 [Screenshot of the Attendance Management System v2 real-time dashboard]
+![alt text](https://github.com/KuyaMecky/Attendance-management-system-v2/blob/master/assets/images/doc%20image/dashboard.png?raw=true)
+
+[Screenshot of the Attendance Management System v2 real-time (Time in / Time out)]
+![alt text](https://github.com/KuyaMecky/Attendance-management-system-v2/blob/master/assets/images/doc%20image/time%20in%20time%20out.png?raw=true)
 
 ## Badge
 
