@@ -76,6 +76,4 @@ This project was developed by Mecky Cu.
 * [Attendance Management System v2 support forum]
 
 **Try the Attendance Management System v2 today and experience the benefits of a more efficient and effective attendance management system!**
-
-
-I hope this is helpful!
+## still ongoin project
