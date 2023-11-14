@@ -84,6 +84,8 @@ Easily track and manage employee work hours on jobs, improve your payroll proces
 ## Screenshots
 
 [Screenshot of the Attendance Management System v2 login page]
+![alt text](https://github.com/KuyaMecky/Attendance-management-system-v2/blob/master/assets/images/doc%20image/admin%20employees.png?raw=true)
+
 
 
 [Screenshot of the Attendance Management System v2 user management page]
