@@ -23,6 +23,14 @@ This web-based attendance management system allows users to manage the attendanc
 * **Better compliance:** Meet regulatory compliance requirements and avoid penalties.
 * **Improved decision-making:** Gain valuable insights into attendance trends and patterns to make informed decisions.
 
+**TODO**
+
+* **Payroll System:** Integrate with a payroll system to automate payroll processing.
+* **Performance:** Add features to track and manage employee performance.
+* **Task management System:** Add features to create, assign, and track tasks.
+* **File Management System:** Add features to upload, store, and manage files.
+* **Chat with other User:** Add a chat feature to allow users to communicate with each other.
+
 **Installation**
 
 To install the Attendance Management System v2, you will need to have the following installed on your server:
@@ -76,4 +84,3 @@ This project was developed by Mecky Cu.
 * [Attendance Management System v2 support forum]
 
 **Try the Attendance Management System v2 today and experience the benefits of a more efficient and effective attendance management system!**
-## still ongoin project
