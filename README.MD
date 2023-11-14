@@ -103,7 +103,7 @@ Easily track and manage employee work hours on jobs, improve your payroll proces
 
 ## Badge
 
-[![GitHub stars](https://img.shields.io/github/stars/mecky/attendance-management-system-v2.svg?style=social)](https://github.com/mecky/attendance-management-system-v2)
+[![GitHub stars](https://img.shields.io/github/stars/mecky/attendance-management-system-v2.svg?style=social)](https://github.com/KuyaMecky/Attendance-management-system-v2)
 
 ## Links
 
