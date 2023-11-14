@@ -62,7 +62,7 @@ The Attendance Management System v2 is licensed under the MIT License.
 
 **Credits**
 
-This project was developed by Mecky Cu.
+This project was developed by Kuya Mecky.
 
 **Attendance Monitoring System application for employees**
 
