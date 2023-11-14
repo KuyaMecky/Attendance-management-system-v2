@@ -45,7 +45,7 @@ Once you have these installed, you can clone the repository to your server and r
 composer install
 php artisan migrate
 
-
+```
 Then, you can create an account for your organization and start using the system.
 
 **Usage**
